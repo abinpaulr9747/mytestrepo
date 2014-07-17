@@ -69,5 +69,7 @@ return array(
 	*/
 
     'api-log' => true,
+    
+    'test'=>1
 
 );
